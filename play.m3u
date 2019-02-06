@@ -1,1 +1,5 @@
 
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://music.awnto.com/items/tv/logos/ndtv.png" group-title="INDIA",NDTV
+http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_736_av-b.m3u8
