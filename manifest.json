@@ -1,11 +1,11 @@
 {
   "background_color": "purple",
-  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
-  "display": "fullscreen",
+  "description": "Beat the Heat with Awnto",
+  "display": "standalone",
   "icons": [
     {
       "src": "/assets/images/awnto-prize.png-600x600.png",
-      "sizes": "192x192",
+      "sizes": "600x600",
       "type": "image/png"
     }
   ],
