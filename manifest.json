@@ -4,7 +4,7 @@
   "display": "fullscreen",
   "icons": [
     {
-      "src": "icon/fox-icon.png",
+      "src": "/assets/images/awnto-prize.png-600x600.png",
       "sizes": "192x192",
       "type": "image/png"
     }
